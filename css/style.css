@@ -1,0 +1,33 @@
+#header{
+background:#F2F2F2;
+padding: 2rem;
+color:#6E6E6E;
+}
+#header h2{
+	font-size: 2rem;
+}
+#nav ul{
+   list-style-type: none;
+   text-align: center;
+   background-color: #A4A4A4;
+   background-color: #A4A4A4;
+	margin-right: 39rem;
+	padding: 1.2em;
+}
+#nav li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
+#container{
+	margin-left: 14rem;
+	margin-top: -9rem;
+	font-family: "helvetica";
+	
+}
+#container h3{
+color: #6E6E6E;
+}
+#container p{
+color: #848484;
+}
